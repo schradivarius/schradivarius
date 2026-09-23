@@ -29,5 +29,3 @@ You could say I'm a learner by day, and a learner by night.
 | **Cloud** | AWS, Azure, Google Cloud (Limited) |
 | **Tools** | Git/GitHub, Claude Code, Docker, Kubernetes, APIs, MCPs |
 
----
-
