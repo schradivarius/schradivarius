@@ -1,7 +1,6 @@
-# Caleb Schrader - CpE Extraordinaire
+# Caleb Schrader 
 
-
-Hey there! My name is Caleb Schrader. I'm a guy who's into whipping up digital solutions, researching new and interesting technologies, and... last but not least... Googling error codes.
+Hey! My name is Caleb Schrader. I'm a guy who's into whipping up digital solutions, researching new and interesting technologies, and... last but not least... Googling error codes.
 You can hate if you want, but at least I'm not using Bing.
 
 
