@@ -18,7 +18,7 @@ You could say I'm a learner by day, and a learner by night...
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+### 🛠️ Some of My Tech Stack & Tools:
 
 | Category | Technologies |
 | :--- | :--- |
