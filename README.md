@@ -31,11 +31,3 @@ You could say I'm a learner by day, and a learner by night.
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Langs" width="48%" />
-</p>
-
----
